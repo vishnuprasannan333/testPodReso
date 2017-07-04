@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'cocoapodReso123'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'This is a test cocoapod cocoapodReso123.'
 
 # This description is used to generate tags and improve search results.
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here. Add long description of the pod here.
-                       DESC 
+                       DESC
 
   s.homepage         = 'https://github.com/vishnuprasannan333/testPodReso'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
