@@ -32,9 +32,9 @@ TODO: Add long description of the pod here. Add long description of the pod here
 
   s.source_files = 'Pod/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   '${POD_NAME}' => ['${POD_NAME}/Assets/*.png']
-  # }
+  s.resource_bundles = {
+   'cocoapodReso123' => ['cocoapodReso123/Assets/*.{lproj,storyboard}']
+  }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
